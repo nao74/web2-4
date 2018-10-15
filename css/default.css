@@ -1,5 +1,6 @@
 
-.btn {
+.btn 
+{
   -webkit-apperance: none;
   -webkit-bord-radius: 0;
   margin: 5px;
@@ -36,7 +37,8 @@
   border-collapse: collapse;
 }
 
-th{
+th
+{
  border: 1px solid lightcoral;
  background-color: mistyrose;
  padding: 5px;
@@ -44,7 +46,8 @@ th{
  text-align: center;
 }
 
-td{
+td
+{
  border: 1px solid lightcoral;
  padding: 5px;
  width: 80px;
