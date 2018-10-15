@@ -26,3 +26,11 @@
 {
   background-color: lightcoral;
 }
+
+#ingredient{
+  broder: 2px solid lightcoral;
+}
+
+th, td{
+ border: 1px solid lightcoral; 
+}
